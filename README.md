@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marco-Peg
 - 👀 I’m interested in Geometric Deep Learning, Spectral shape analysis.
-- 🌱 I’m currently learning Computer Science at University of Verona.
+- 🌱 I’m currently a Phd Student at Sapienza University of Rome.
 - 📫 How to reach me: m.pegoraro@hotmail.it
 
 <!---
