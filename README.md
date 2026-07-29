@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Marco (He/Him)
- 🌱 I am a PhD Student @gladia-research-group, Department of Computer Science, Sapienza University of Rome 🎓
+ 🌱 I am a PostDoc @ISTA in the Bronstein Group 🎓
  
- 👀 I am interested in Geometric Deep Learning, Spectral shape analysis.
+ 👀 I am interested in Structural Biology, Geometric Deep Learning, Spectral shape analysis.
  
- 📫 You can reach me at: pegoraro@di.uniroma1.it
+ 📫 You can reach me at: marco.pegoraro@ist.ac.at
  <p align="center">
     <a href="https://gladia.di.uniroma1.it/members/pegoraro"><img alt="Website" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"</a>
     <a href="https://www.linkedin.com/in/marco-pegoraro-9086221b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
