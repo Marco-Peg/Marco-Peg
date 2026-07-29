@@ -5,7 +5,7 @@
  
  📫 You can reach me at: marco.pegoraro@ist.ac.at
  <p align="center">
-    <a href="https://gladia.di.uniroma1.it/members/pegoraro"><img alt="Website" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"</a>
+    <a href="[https://gladia.di.uniroma1.it/members/pegoraro](https://ista.ac.at/en/research/bronstein-group/)"><img alt="Website" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"</a>
     <a href="https://www.linkedin.com/in/marco-pegoraro-9086221b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
     <a href="https://twitter.com/MPegoraro42"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=social" hspace="10"></a>
 </p>
